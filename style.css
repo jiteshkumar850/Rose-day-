@@ -6,7 +6,8 @@ html {
     padding: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(to right, #65726e, #ef3b86);
+    background-image: url(./1f13952a-1ab8-48cf-8a2e-f93a0555a6b1.jpg);
+    background-size: 15%;
 }
 
 h1 {
